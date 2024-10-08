@@ -6,10 +6,11 @@
 // @resource    customCSS https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.11.6/viewer.min.css
 // @grant       GM_getResourceText
 // @grant       GM_addStyle
-// @grant       none
 // @version     1.0
 // @author      ape-that-presses-keys
+// @license     MIT
 // @description Removes the frame from reddit images, replace it with a minimalist image viewer (viewer.js).
+// @updateURL   https://openuserjs.org/meta/ape-that-presses-keys/DownloadRedgifs.meta.js
 // ==/UserScript==
 
 // add the image viewer source files to the page
