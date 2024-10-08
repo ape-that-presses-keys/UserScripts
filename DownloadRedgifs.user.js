@@ -5,7 +5,9 @@
 // @grant       none
 // @version     1.0
 // @author      ape-that-presses-keys
+// @license     MIT
 // @description Simple download button, only works for the first gif/video on a page.
+// @updateURL   https://openuserjs.org/meta/ape-that-presses-keys/DownloadRedgifs.meta.js
 // ==/UserScript==
 
 function dl() {
